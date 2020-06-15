@@ -6,16 +6,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="css/cadastro.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="images/vsicon.png">
-<title>Cadastrar</title>
+<title>Editar Perfil</title>
 <?php
 if((!isset ($_SESSION['email']) == true) and (!isset ($_SESSION['senha']) == true))
 {
   unset($_SESSION['email']);
   unset($_SESSION['senha']);
+  unset($_SESSION['id_usuarios']);
+header('location:profile.php');
   }
-else {header('location:profile.php');}
+$logado = $_SESSION['email'];
 
-?></head>
+?>
+</head>
 <body>
 <!-- Main Container -->
 <div class="corp"><div align="center" class="center"><img alt="" src="images/logo2.png"/></div>
@@ -51,15 +54,15 @@ else {header('location:profile.php');}
         <li id="menu-item-34"><a href="categoriaX.php">X</a></li>
         <li id="menu-item-35"><a href="categoriaY.php">Y</a></li>
         <li id="menu-item-36"><a href="categoriaZ.php">Z</a></li>
-        <li id="menu-item-37"><a href="login.php"><u>Login / Cadastro</u></a></li>
+        <li id="menu-item-37"><a href="perfil.php"><u>Perfil</u></a></li>
 		  </ul>
     </nav></div>
     	<select id="select" class="container" onchange="window.location=this.value">
         	<option value="#">Menu - Lista de Série s A - Z...</option>
-                <option value="index.php"> Início</option>
+    		<option value="index.php" selected="selected"> Início</option>
     		<option value="categoria123.php">Categoria #</option>
     		<option value="categoriaA.php">Categoria A</option>
-                <option value="categoriaB.php">Categoria B</option>
+   	 		<option value="categoriaB.php">Categoria B</option>
     		<option value="categoriaC.php">Categoria C</option>
     		<option value="categoriaD.php">Categoria D</option>
     		<option value="categoriaE.php">Categoria E</option>
@@ -84,41 +87,40 @@ else {header('location:profile.php');}
     		<option value="categoriaX.php">Categoria X</option>
     		<option value="categoriaY.php">Categoria Y</option>
     		<option value="categoriaZ.php">Categoria Z</option>
-                <option value="cadastro.php" selected="selected">Login /Cadastro</option>
+        <option value="perfil.php">Perfil</option>
     	</select>
   <div class="gallery">
     <div class="thumbnail">
       <div class="cont" >
      
         <div class="content">      
-          <div id="cadastro">
-            <form action="cadastrar.php" method="POST"> 
-              <h1>Cadastro</h1> 
-           
-              <p> 
+                <div id="cadastro">
+                    <h1>Editar Perfil</h1> 
+        <form action="alterado.php" method="post" > 
+            
+          <p> 
                 <label for="nome">Seu nome</label>
                 <input id="nome" name="nome" required="required" type="text" placeholder="nome" >
               </p>
+          <p> 
+            <label for="email">Seu e-mail</label>
+            <input id="email" name="email" required="required" type="text" placeholder="ex. contato@umprovedorqualquer.com"/>
+          </p>
            
-              <p> 
-                <label for="email">Seu e-mail</label>
-                <input id="email" name="email" required="required" type="email" placeholder="contato@htmlecsspro.com"> 
-              </p>
+          <p> 
+            <label for="senha">Sua senha</label>
+            <input id="senha" name="senha" required="required" type="password" placeholder="ex. senha" /> 
+          </p>
            
-              <p> 
-                <label for="senha">Sua senha</label>
-                <input id="senha" name="senha" required="required" minlength="8" maxlength="15" size="15" type="password" placeholder="ex. 12345678">
-              </p>
+          <input id="id_usuarios" type="hidden" name="id_usuarios" value="<?php echo $_SESSION['id_usuarios']; ?>"/> 
            
-              <p> 
-                <input type="submit" value="Cadastrar" id="cadastrar" name="cadastrar"/> 
-              </p>
+          <p> 
+            <input type="submit" value="alterar" name="alterar"/> 
+          </p>
            
-              <p class="link">  
-                Já tem conta?
-                <a href="login.php"> Ir para Login </a>
-              </p>
-            </form>
+        </form>
+
+    </div>
           </div>
         </div> 
       </div>
@@ -130,7 +132,7 @@ else {header('location:profile.php');}
     <div class="button"><a style="text-decoration:none; color:#FFFFFF" href="contato.php">CONTATE-NOS</a></div>
   </footer>
   <!-- Copyrights Section -->
-  <div class="copyright">&copy;2020 - <a style="text-decoration:none" href="index.php"><strong style="color:#12E19D">VIA SÉRIE </strong></a></div>
+  <div class="copyright">&copy;2019 - <a style="text-decoration:none" href="index.php"><strong style="color:#12E19D">VIA SÉRIE </strong></a></div>
 	</div></div>
 <!-- Main Container Ends 
 <aside id="text-5" class="widget widget_text clearfix"><h3 class="heading"><span>Mais Populares</span></h3><div class="textwidget"><div class="entry-listing clearfix">

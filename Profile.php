@@ -15,7 +15,7 @@ and (!isset ($_SESSION['id_usuarios']) == true))
   unset($_SESSION['email']);
   unset($_SESSION['senha']);
   unset($_SESSION['nome']);
-    unset ($_SESSION['id_usuarios']);
+  unset ($_SESSION['id_usuarios']);  
   header('location:login.php');
   }
 
@@ -63,7 +63,7 @@ $logado = $_SESSION['email'];
     </nav></div>
     	<select id="select" class="container" onchange="window.location=this.value">
         	<option value="#">Menu - Lista de Série s A - Z...</option>
-    		<option value="http://viaserie.tk/"> Início</option>
+    		<option value="index.php"> Início</option>
     		<option value="categoria123.html">Categoria #</option>
     		<option value="categoriaA.html">Categoria A</option>
    	 		<option value="categoriaB.html">Categoria B</option>
@@ -91,7 +91,7 @@ $logado = $_SESSION['email'];
     		<option value="categoriaX.html">Categoria X</option>
     		<option value="categoriaY.html">Categoria Y</option>
     		<option value="categoriaZ.html">Categoria Z</option>
-        <option value="profile.php" selected="selected">Perfil</option>
+                <option value="profile.php" selected="selected">Perfil</option>
     	</select>
   <div class="gallery">
     <div class="thumbnail">
@@ -124,29 +124,8 @@ $logado = $_SESSION['email'];
           <div class="content"> -->     
       <!--LOGIN-->
       
-      <div id="login">
-        <form action="alterado.php" method="post" > 
-          
-          <p> 
-            <label for="email">Seu e-mail</label>
-            <input id="email" name="email" required="required" type="text" placeholder="ex. contato@umprovedorqualquer.com"/>
-          </p>
-           
-          <p> 
-            <label for="senha">Sua senha</label>
-            <input id="senha" name="senha" required="required" type="password" placeholder="ex. senha" /> 
-          </p>
-           
-          <input id="id_usuarios" type="hidden" name="id_usuarios" value="<?php echo $_SESSION['id_usuarios']; ?>"/> 
-           
-          <p> 
-            <input type="submit" value="alterar" name="alterar"/> 
-          </p>
-           
-    
+      
     </div>
-    </div>
-    </form>
         <div id="delete">
         <form action="deletar.php" method="post" > 
           
@@ -162,17 +141,13 @@ $logado = $_SESSION['email'];
         </form>
     </div>
   </div>
-         
+        <div class="botao-alterar"><p><a href="alterar.php">Alterar</a></p></div>
 		  <div class="botao-sair"><p><a href="sair.php">Sair</a></p></div>
         </div>
         <!-- END SIDEBAR BUTTONS -->
         <!-- SIDEBAR MENU -->
         </div>
         <!-- END MENU -->
-      </div>
-    </div>
-  </div>
-</div>
 <center>
 <br>
 <br>
