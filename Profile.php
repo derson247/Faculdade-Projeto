@@ -6,19 +6,23 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="css/profile.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="images/vsicon.png">
+<link href="css/cadastro.css" rel="stylesheet" type="text/css">
 <title>VIA SÉRIE</title>
-
 <?php
-if((!isset ($_SESSION['email']) == true) and (!isset ($_SESSION['senha']) == true) and (!isset ($_SESSION['nome']) == true))
+if((!isset ($_SESSION['email']) == true) and (!isset ($_SESSION['senha']) == true) and (!isset ($_SESSION['nome']) == true)
+and (!isset ($_SESSION['id_usuarios']) == true))
 {
   unset($_SESSION['email']);
   unset($_SESSION['senha']);
   unset($_SESSION['nome']);
+  unset ($_SESSION['id_usuarios']);
   header('location:login.php');
   }
 
 $logado = $_SESSION['email'];
-?></head>
+
+?>
+</head>
 <body>
 <!-- Main Container -->
 <div class="corp"><div align="center" class="center"><img alt="" src="images/logo2.png"/></div>
@@ -106,13 +110,59 @@ $logado = $_SESSION['email'];
             <?php echo $_SESSION['nome'];?>
           </div>
           <div class="profile-usertitle-email">
-            <?php echo $_SESSION['email'];?>
+            <?php echo $_SESSION['email'];
+             $_SESSION['id_usuarios'];?>
           </div>
         </div>
+        </div>
+        </div>
+        
         <!-- END SIDEBAR USER TITLE -->
         <!-- SIDEBAR BUTTONS -->
-        <div class="profile-userbuttons">
+        <!--<div class="profile-userbuttons">
           <div class="botao"><a href="alterar.php">Editar Perfil</a></div>
+          <div class="content"> -->     
+      <!--LOGIN-->
+      
+      <div id="login">
+        <form action="alterado.php" method="post" > 
+          
+          <p> 
+            <label for="email">Seu e-mail</label>
+            <input id="email" name="email" required="required" type="text" placeholder="ex. contato@umprovedorqualquer.com"/>
+          </p>
+           
+          <p> 
+            <label for="senha">Sua senha</label>
+            <input id="senha" name="senha" required="required" type="password" placeholder="ex. senha" /> 
+          </p>
+           
+          <input id="id_usuarios" type="hidden" name="id_usuarios" value="<?php echo $_SESSION['id_usuarios']; ?>"/> 
+           
+          <p> 
+            <input type="submit" value="alterar" name="alterar"/> 
+          </p>
+           
+    
+    </div>
+    </div>
+    </form>
+        <div id="delete">
+        <form action="deletar.php" method="post" > 
+          
+        
+           
+          <input id="id_usuarios" type="hidden" name="id_usuarios" value="<?php echo $_SESSION['id_usuarios']; ?>"/> 
+           
+          <p> 
+            <input type="submit" value="deletar" name="deletar"/> 
+          </p>
+           
+      
+        </form>
+    </div>
+  </div>
+  
 		  <div class="botao-sair"><p><a href="sair.php">Sair</a></p></div>
         </div>
         <!-- END SIDEBAR BUTTONS -->
