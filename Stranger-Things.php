@@ -2,22 +2,13 @@
 <!DOCTYPE html >
 <html>
 	<head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link href="css/bootstrap(stranger).css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="images/vsicon.png">
-<title>Stranger Things</title>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-83545183-7', 'auto');
-  ga('send', 'pageview');
-
-</script></head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link href="css/bootstrap(stranger).css" rel="stylesheet" type="text/css">
+		<link rel="shortcut icon" href="images/vsicon.png">
+		<title>Stranger Things</title>
+	</head>
 <body>	
 <!-- Main Container -->
 <div class="corp"><div align="center" class="center"><img alt="" src="images/logo2.png"/></div>
@@ -112,19 +103,44 @@
       <p class="text_column2">Status: Em produção</p>
       <p class="text_column2">Duração: 60 minutos</p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
-            <li><a href="Stranger-Things-T01EP01.php" class="text">Stranger Things T01EP01</a></li>
-            <li><a href="Stranger-Things-T01EP02.php" class="text">Stranger Things T01EP02</a></li>
-            <li><a href="Stranger-Things-T01EP03.php" class="text">Stranger Things T01EP03</a></li>
-            <li><a href="Stranger-Things-T01EP04.php" class="text">Stranger Things T01EP04</a></li>
-            <li><a href="Stranger-Things-T01EP05.php" class="text">Stranger Things T01EP05</a></li>
-            <li><a href="Stranger-Things-T01EP06.php" class="text">Stranger Things T01EP06</a></li>
-            <li><a href="Stranger-Things-T01EP07.php" class="text">Stranger Things T01EP07</a></li>
-            <li><a href="Stranger-Things-T01EP08.php" class="text">Stranger Things T01EP08</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP01.php" class="text">Stranger Things T01EP01</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP02.php" class="text">Stranger Things T01EP02</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP03.php" class="text">Stranger Things T01EP03</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP04.php" class="text">Stranger Things T01EP04</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP05.php" class="text">Stranger Things T01EP05</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP06.php" class="text">Stranger Things T01EP06</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP07.php" class="text">Stranger Things T01EP07</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T01EP08.php" class="text">Stranger Things T01EP08</a></li>
             </ul></div>
-		<h3 class="heading"><span style="color:#875F08">2ª Temporada Em breve</span></h3></div></div>
+		<h3 class="thumb22"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
+			<div id="epsetemps2">
+        		<ul class="temps" id="temp2">
+            <li><a href="Stranger-Things/Stranger-Things-T02EP01.php" class="text">Stranger Things T02EP01</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP02.php" class="text">Stranger Things T02EP02</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP03.php" class="text">Stranger Things T02EP03</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP04.php" class="text">Stranger Things T02EP04</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP05.php" class="text">Stranger Things T02EP05</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP06.php" class="text">Stranger Things T02EP06</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP07.php" class="text">Stranger Things T02EP07</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T02EP08.php" class="text">Stranger Things T02EP08</a></li>
+			<li><a href="Stranger-Things/Stranger-Things-T02EP09.php" class="text">Stranger Things T02EP09</a></li>
+            </ul></div>
+		<h3 class="thumb22"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
+			<div id="epsetemps3">
+        		<ul class="temps" id="temp3">
+            <li><a href="Stranger-Things/Stranger-Things-T03EP01.php" class="text">Stranger Things T03EP01</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP02.php" class="text">Stranger Things T03EP02</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP03.php" class="text">Stranger Things T03EP03</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP04.php" class="text">Stranger Things T03EP04</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP05.php" class="text">Stranger Things T03EP05</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP06.php" class="text">Stranger Things T03EP06</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP07.php" class="text">Stranger Things T03EP07</a></li>
+            <li><a href="Stranger-Things/Stranger-Things-T03EP08.php" class="text">Stranger Things T03EP08</a></li>
+            </ul></div>
+	  </div></div>
             <!-- Seção final -->
   			<footer id="contact">
     			<p class="hero_header text_column2">SENTIU FALTA DE ALGUMA SÉRIE </p>

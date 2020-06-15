@@ -15,14 +15,14 @@ and (!isset ($_SESSION['id_usuarios']) == true))
   unset($_SESSION['email']);
   unset($_SESSION['senha']);
   unset($_SESSION['nome']);
-  unset ($_SESSION['id_usuarios']);
+    unset ($_SESSION['id_usuarios']);
   header('location:login.php');
   }
 
 $logado = $_SESSION['email'];
 
 ?>
-</head>
+    </head>
 <body>
 <!-- Main Container -->
 <div class="corp"><div align="center" class="center"><img alt="" src="images/logo2.png"/></div>
@@ -162,7 +162,7 @@ $logado = $_SESSION['email'];
         </form>
     </div>
   </div>
-  
+         
 		  <div class="botao-sair"><p><a href="sair.php">Sair</a></p></div>
         </div>
         <!-- END SIDEBAR BUTTONS -->

@@ -101,7 +101,7 @@
 		<p>Status: Em produção</p>
 		<p>Duração: 42 minutos</p></p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Dcs-Legends-Of-Tomorrow"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
             <li><a href="DCs-Legends-Of-Tomorrow/DCs-Legends-Of-Tomorrow-T01EP01.php" title=".php" class="text">Legends Of Tomorrow T01EP01</a></li>

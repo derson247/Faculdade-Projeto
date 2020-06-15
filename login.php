@@ -111,11 +111,6 @@ else {header('location:profile.php');}
           </p>
            
           <p> 
-            <input type="checkbox" name="manterlogado" id="manterlogado" value="" /> 
-            <label for="manterlogado">Manter-me logado</label>
-          </p>
-           
-          <p> 
             <input type="submit" value="entrar" name="entrar"/> 
           </p>
            
