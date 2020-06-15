@@ -5,26 +5,14 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>The Originals LEGENDADO</title>
+<title>The Originals</title>
 <link href="css/bootstrap(the-originals).css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="images/vsicon.png">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-83545183-10', 'auto');
-  ga('send', 'pageview');
-
-</script></head>
+</head>
 <body>	
 <!-- Main Container -->
-<div class="container"> 
-  <!-- Header -->
-  <header class="header">
-	  <h4 class="logo"><!--<a href="viaserie.tk.php">-->VIA SÉRIE</h4>
-  </header>
+<div class="corp"><div align="center" class="center"><img alt="" src="images/logo2.png"/></div>
+ <div class="container">
 <div class=" menu-item-43">
     <nav id="menu" class="container">
       <ul id="menu-top-menu" class="sf-menu">
@@ -102,7 +90,7 @@
       <?php  } ?>
       </select>
   <div class="gallery">
-    <div class="thumbnail"><a href="The-Originals.php"><img src="images/the-originalls.jpg" alt="" width="2000" class="cards"/></a>
+    <div class="thumbnail"><img src="images/the-originalls.jpg" alt="" width="2000" class="cards"/>
       <h4>THE ORIGINALS</h4>
       <p class="tag">Um spin-off de The Vampire Diaries, que se passa em New Orleans. A série é centrada nos irmãos Mikaelson, que são conhecidos como os vampiros originais do mundo: Klaus (Joseph Morgan, Elijah (Daniel Gilles), e Rebekah (Claire Holt). Séculos atrás, eles prometeram ficar juntos para sempre e proteger uns aos outros. Agora, os laços familiares quebrados, tragédia e fome recaem como maldição àqueles que não cumpriram seus votos.</p> 
       	<p>Criado por: Julie Plec (2013)</p>
@@ -112,102 +100,103 @@
 		<p>Status: Em produção</p>
 		<p>Duração: 42 minutos</p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
-            <li><a href="The-Originals-T01EP01.php" class="text">The Originals T01EP01</a></li>
-            <li><a href="The-Originals-T01EP02.php" class="text">The Originals T01EP02</a></li>
-            <li><a href="The-Originals-T01EP03.php" class="text">The Originals T01EP03</a></li>
-            <li><a href="The-Originals-T01EP04.php" class="text">The Originals T01EP04</a></li>
-            <li><a href="The-Originals-T01EP05.php" class="text">The Originals T01EP05</a></li>
-            <li><a href="The-Originals-T01EP06.php" class="text">The Originals T01EP06</a></li>
-            <li><a href="The-Originals-T01EP07.php" class="text">The Originals T01EP07</a></li>
-            <li><a href="The-Originals-T01EP08.php" class="text">The Originals T01EP08</a></li>
-            <li><a href="The-Originals-T01EP09.php" class="text">The Originals T01EP09</a></li>
-            <li><a href="The-Originals-T01EP10.php" class="text">The Originals T01EP10</a></li>
-            <li><a href="The-Originals-T01EP11.php" class="text">The Originals T01EP11</a></li>
-            <li><a href="The-Originals-T01EP12.php" class="text">The Originals T01EP12</a></li>
-            <li><a href="The-Originals-T01EP13.php" class="text">The Originals T01EP13</a></li>
-            <li><a href="The-Originals-T01EP14.php" class="text">The Originals T01EP14</a></li>
-            <li><a href="The-Originals-T01EP15.php" class="text">The Originals T01EP15</a></li>
-            <li><a href="The-Originals-T01EP16.php" class="text">The Originals T01EP16</a></li>
-            <li><a href="The-Originals-T01EP17.php" class="text">The Originals T01EP17</a></li>
-            <li><a href="#" class="text">The Originals T01EP18 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="The-Originals-T01EP19.php" class="text">The Originals T01EP19</a></li>
-            <li><a href="The-Originals-T01EP20.php" class="text">The Originals T01EP20</a></li>
-            <li><a href="The-Originals-T01EP21.php" class="text">The Originals T01EP21</a></li>
-            <li><a href="The-Originals-T01EP22.php" class="text">The Originals T01EP22</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP01.php" class="text">The Originals T01EP01</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP02.php" class="text">The Originals T01EP02</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP03.php" class="text">The Originals T01EP03</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP04.php" class="text">The Originals T01EP04</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP05.php" class="text">The Originals T01EP05</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP06.php" class="text">The Originals T01EP06</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP07.php" class="text">The Originals T01EP07</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP08.php" class="text">The Originals T01EP08</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP09.php" class="text">The Originals T01EP09</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP10.php" class="text">The Originals T01EP10</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP11.php" class="text">The Originals T01EP11</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP12.php" class="text">The Originals T01EP12</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP13.php" class="text">The Originals T01EP13</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP14.php" class="text">The Originals T01EP14</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP15.php" class="text">The Originals T01EP15</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP16.php" class="text">The Originals T01EP16</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP17.php" class="text">The Originals T01EP17</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP18.php" class="text">The Originals T01EP18</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP19.php" class="text">The Originals T01EP19</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP20.php" class="text">The Originals T01EP20</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP21.php" class="text">The Originals T01EP21</a></li>
+            <li><a href="The-Originals/The-Originals-T01EP22.php" class="text">The Originals T01EP22</a></li>
             </ul></div>
-		<h3 class="heading"><span>2ª Temporada</span></h3>
+		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="temp2">
 			<ul id="lista_eps2">
-     		<li><a href="The-Originals-T02EP01.php" class="text">The Originals T02EP01</a></li>
-            <li><a href="The-Originals-T02EP02.php" class="text">The Originals T02EP02</a></li>
-            <li><a href="The-Originals-T02EP03.php" class="text">The Originals T02EP03</a></li>
-            <li><a href="The-Originals-T02EP04.php" class="text">The Originals T02EP04</a></li>
-            <li><a href="The-Originals-T02EP05.php" class="text">The Originals T02EP05</a></li>
-            <li><a href="The-Originals-T02EP06.php" class="text">The Originals T02EP06</a></li>
-            <li><a href="The-Originals-T02EP07.php" class="text">The Originals T02EP07</a></li>
-            <li><a href="The-Originals-T02EP08.php" class="text">The Originals T02EP08</a></li>
-            <li><a href="#" class="text">The Originals T02EP09 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="The-Originals-T02EP10.php" class="text">The Originals T02EP10</a></li>
-            <li><a href="The-Originals-T02EP11.php" class="text">The Originals T02EP11</a></li>
-            <li><a href="The-Originals-T02EP12.php" class="text">The Originals T02EP12</a></li>
-            <li><a href="The-Originals-T02EP13.php" class="text">The Originals T02EP13</a></li>
-            <li><a href="The-Originals-T02EP14.php" class="text">The Originals T02EP14</a></li>
-            <li><a href="The-Originals-T02EP15.php" class="text">The Originals T02EP15</a></li>
-            <li><a href="The-Originals-T02EP16.php" class="text">The Originals T02EP16</a></li>
-            <li><a href="#" class="text">The Originals T02EP17 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T02EP18 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T02EP19 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T02EP20 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T02EP21 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T02EP22 <strong style="color:green">EM BREVE</strong></a></li>
+     		<li><a href="The-Originals/The-Originals-T02EP01.php" class="text">The Originals T02EP01</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP02.php" class="text">The Originals T02EP02</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP03.php" class="text">The Originals T02EP03</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP04.php" class="text">The Originals T02EP04</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP05.php" class="text">The Originals T02EP05</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP06.php" class="text">The Originals T02EP06</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP07.php" class="text">The Originals T02EP07</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP08.php" class="text">The Originals T02EP08</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP09.php" class="text">The Originals T02EP09</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP10.php" class="text">The Originals T02EP10</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP11.php" class="text">The Originals T02EP11</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP12.php" class="text">The Originals T02EP12</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP13.php" class="text">The Originals T02EP13</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP14.php" class="text">The Originals T02EP14</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP15.php" class="text">The Originals T02EP15</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP16.php" class="text">The Originals T02EP16</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP17.php" class="text">The Originals T02EP17</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP18.php" class="text">The Originals T02EP18</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP19.php" class="text">The Originals T02EP19</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP20.php" class="text">The Originals T02EP20</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP21.php" class="text">The Originals T02EP21</a></li>
+            <li><a href="The-Originals/The-Originals-T02EP22.php" class="text">The Originals T02EP22</a></li>
                 </ul></div>
-			<h3 class="heading"><span>3ª Temporada</span></h3>
+			<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
             <div>
             <ul>
 			<p><a class="text2"></a></p>
-            <li><a href="The-Originals-T03EP01.php" class="text">The Originals T03EP01</a></li>
-            <li><a href="The-Originals-T03EP02.php" class="text">The Originals T03EP02</a></li>
-            <li><a href="The-Originals-T03EP03.php" class="text">The Originals T03EP03</a></li>
-            <li><a href="The-Originals-T03EP04.php" class="text">The Originals T03EP04</a></li>
-            <li><a href="#" class="text">The Originals T03EP05 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T03EP06 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T03EP07 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="The-Originals-T03EP08.php" class="text">The Originals T03EP08</a></li>
-            <li><a href="The-Originals-T03EP09.php" class="text">The Originals T03EP09</a></li>
-            <li><a href="The-Originals-T03EP10.php" class="text">The Originals T03EP10</a></li>
-            <li><a href="The-Originals-T03EP11.php" class="text">The Originals T03EP11</a></li>
-            <li><a href="The-Originals-T03EP12.php" class="text">The Originals T03EP12</a></li>
-            <li><a href="The-Originals-T03EP13.php" class="text">The Originals T03EP13</a></li>
-            <li><a href="#" class="text">The Originals T03EP14 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T03EP15 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T03EP16 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="The-Originals-T03EP17.php" class="text">The Originals T03EP17</a></li>
-            <li><a href="The-Originals-T03EP18.php" class="text">The Originals T03EP18</a></li>
-            <li><a href="The-Originals-T03EP19.php" class="text">The Originals T03EP19</a></li>
-            <li><a href="The-Originals-T03EP20.php" class="text">The Originals T03EP20</a></li>
-            <li><a href="#" class="text">The Originals T03EP21 <strong style="color:green">EM BREVE</strong></a></li>
-            <li><a href="#" class="text">The Originals T03EP22 <strong style="color:green">EM BREVE</strong></a></li>
+            <li><a href="The-Originals/The-Originals-T03EP01.php" class="text">The Originals T03EP01</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP02.php" class="text">The Originals T03EP02</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP03.php" class="text">The Originals T03EP03</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP04.php" class="text">The Originals T03EP04</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP05.php" class="text">The Originals T03EP05</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP06.php" class="text">The Originals T03EP06</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP07.php" class="text">The Originals T03EP07</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP08.php" class="text">The Originals T03EP08</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP09.php" class="text">The Originals T03EP09</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP10.php" class="text">The Originals T03EP10</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP11.php" class="text">The Originals T03EP11</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP12.php" class="text">The Originals T03EP12</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP13.php" class="text">The Originals T03EP13</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP14.php" class="text">The Originals T03EP14</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP15.php" class="text">The Originals T03EP15</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP16.php" class="text">The Originals T03EP16</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP17.php" class="text">The Originals T03EP17</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP18.php" class="text">The Originals T03EP18</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP19.php" class="text">The Originals T03EP19</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP20.php" class="text">The Originals T03EP20</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP21.php" class="text">The Originals T03EP21</a></li>
+            <li><a href="The-Originals/The-Originals-T03EP22.php" class="text">The Originals T03EP22</a></li>
             </ul></div>
-            <h3 class="heading"><span>4ª Temporada</span></h3>
-            <div>
+            <h3 class="heading"><span>4ª e 5ª Temporada Em Breve</span></h3>
+            <!--<div>
             <ul>
 			<p><a class="text2"></a></p>
-            <li><a href="The-Originals-T04EP01-leg.php" class="text">The Originals T04EP01 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP02-leg.php" class="text">The Originals T04EP02 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP03-leg.php" class="text">The Originals T04EP03 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP04-leg.php" class="text">The Originals T04EP04 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP05-leg.php" class="text">The Originals T04EP05 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP06-leg.php" class="text">The Originals T04EP06 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP07-leg.php" class="text">The Originals T04EP07 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP08-leg.php" class="text">The Originals T04EP08 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP09-leg.php" class="text">The Originals T04EP09 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP10-leg.php" class="text">The Originals T04EP10 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP11-leg.php" class="text">The Originals T04EP11 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP12-leg.php" class="text">The Originals T04EP12 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
-            <li><a href="The-Originals-T04EP13-leg.php" class="text">The Originals T04EP13 <span style="color:#FF0000">/</span> LEGENDADO <img src="images/new.png" alt="Novo episodio '4ª Temporada  episodio 13 legendado" width="29px"/></a></li></ul></div></div>
+            <li><a href="The-Originals/The-Originals-T04EP01-leg.php" class="text">The Originals T04EP01 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP02-leg.php" class="text">The Originals T04EP02 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP03-leg.php" class="text">The Originals T04EP03 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP04-leg.php" class="text">The Originals T04EP04 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP05-leg.php" class="text">The Originals T04EP05 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP06-leg.php" class="text">The Originals T04EP06 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP07-leg.php" class="text">The Originals T04EP07 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP08-leg.php" class="text">The Originals T04EP08 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP09-leg.php" class="text">The Originals T04EP09 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP10-leg.php" class="text">The Originals T04EP10 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP11-leg.php" class="text">The Originals T04EP11 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP12-leg.php" class="text">The Originals T04EP12 <span style="color:#FF0000">/</span> LEGENDADO</a></li>
+            <li><a href="The-Originals/The-Originals-T04EP13-leg.php" class="text">The Originals T04EP13 <span style="color:#FF0000">/</span> LEGENDADO <img src="images/new.png" alt="Novo episodio '4ª Temporada  episodio 13 legendado" width="29px"/></a></li></ul></div>-->
+	  </div>
   </div>
   <!-- Footer Section -->
   <footer id="contact">

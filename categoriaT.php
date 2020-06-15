@@ -98,9 +98,9 @@
       <p class="tag">No ano de 2149, o planeta Terra está praticamente inabitável pelo excesso de poluição da atmosfera. Para escapar dessa situação, o detetive de polícia Jim Shannon<a href="#">Mais ...</a></p>
     </div>
     
-     <div class="thumbnail" id="thumbnail10"><a href="The-100.php"><img src="images/the 100.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="The-100.php">THE 100</a></h4>
-      <p class="tag">Quando uma guerra nuclear destruiu a civilização e o planeta Terra, os únicos sobreviventes foram 400 pessoas que estavam em 12 estações espaciais em órbita. 97 anos<a href="The-100">Mais ...</a></p>
+     <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/the 100.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="#">THE 100</a></h4>
+      <p class="tag">Quando uma guerra nuclear destruiu a civilização e o planeta Terra, os únicos sobreviventes foram 400 pessoas que estavam em 12 estações espaciais em órbita. 97 anos<a href="#">Mais ...</a></p>
     </div>
     <div class="thumbnail"><a href="The-Big-Bang-Theory.php"><img src="images/The-Big-Bang-Theory.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="The-Big-Bang-Theory.php">THE BIG BANG THEORY</a></h4>
@@ -110,9 +110,9 @@
       <h4><a href="#">THE BLACKLIST</a></h4>
       <p class="tag">Raymond Reddington é um dos criminosos mais procurados pelo FBI. Até que um dia ele decide se entregar misteriosamente à agência, oferecendo com ele uma<a href="#">Mais ...</a></p> 
     </div>
-    <div class="thumbnail"><a href="The-Flash.php"><img src="images/the flash.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="The-Flash.php">THE FLASH</a></h4>
-      <p class="tag">Barry Allen (Grant Gustin) era um funcionário da Polícia Científica que, ao sofrer um acidente, foi banhado por produtos químicos em seu laboratório e, em seguida, atingido por um<a href="The-Flash">Mais ...</a></p> 
+    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/the flash.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="#">THE FLASH</a></h4>
+      <p class="tag">Barry Allen (Grant Gustin) era um funcionário da Polícia Científica que, ao sofrer um acidente, foi banhado por produtos químicos em seu laboratório e, em seguida, atingido por um<a href="#">Mais ...</a></p> 
       </div>
     <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/the-librarians.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="#">THE LIBRARIANS</a></h4>
@@ -130,13 +130,13 @@
       <h4><a href="#">THE VAMPIRE DIARIES</a></h4>
       <p class="tag">A cidade fictícia de Mystic Falls, na Virgina, é assombrada por criaturas sobrenaturais. Damon (Ian Somerhalder) e Stefan Salvatore (Paul Wesley) são irmãos que<a href="#">Mais ...</a></p>
       </div>
-        <div class="thumbnail"><a href="The-Walking-Dead.php"><img src="images/the-walking-dead.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="The-Walking-Dead.php">THE WALKING DEAD</a></h4>
-      <p class="tag">Um Apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que<a href="The-Walking-Dead">Mais ...</a></p>
+        <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/the-walking-dead.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="#">THE WALKING DEAD</a></h4>
+      <p class="tag">Um Apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que<a href="#">Mais ...</a></p>
         </div>
-        <div class="thumbnail"><a href="Touch.php"><img src="images/touch.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="Touch.php">TOUCH</a></h4>
-      <p class="tag">Martin Bohm (Kiefer Sutherland) é um ex-jornalista que, após o falecimento da esposa nas Torres Gêmeas em 11 de setembro, passa a exercer uma série de trabalhos diferentes tentando<a href="Touch">Mais ...</a></p>
+        <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/touch.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="#">TOUCH</a></h4>
+      <p class="tag">Martin Bohm (Kiefer Sutherland) é um ex-jornalista que, após o falecimento da esposa nas Torres Gêmeas em 11 de setembro, passa a exercer uma série de trabalhos diferentes tentando<a href="#">Mais ...</a></p>
         </div>
     <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/true-blood.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="#">TRUE BLOOD</a></h4>

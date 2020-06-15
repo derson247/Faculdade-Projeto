@@ -97,9 +97,9 @@
       	<h4><a href="#">Vegas</a></h4>
       	<p class="tag">Baseada em uma história real, conta o drama do Xerife Ralph Lamb (Dennis Quaid), um rancheiro com a tarefa de trazer ordem a Las Vegas, nos anos 1960. Ele só quer ser deixado em<a href="#">Mais ...</a></p>
     </div>
-    <div class="thumbnail"><a href="Vikings.php"><img src="images/viking.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="Vikings.php">VIKINGS</a></h4>
-      <p class="tag">Ragnar Lothbrok (Travis Fimmel) é o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de<a href="Vikings">Mais ...</a></p> 
+    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/viking.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="#">VIKINGS</a></h4>
+      <p class="tag">Ragnar Lothbrok (Travis Fimmel) é o maior guerreiro da sua era. Lider de seu bando, com seus irmãos e sua família, ele ascende ao poder e torna-se Rei da tribo dos vikings. Além de<a href="#">Mais ...</a></p> 
     </div>
   </div>
   <!-- Footer Section -->

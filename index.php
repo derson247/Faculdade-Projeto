@@ -101,6 +101,10 @@
       <h4><a href="Mr-Robot.php">MR. ROBOT</a> </h4>
       <p class="tag">Elliot (Rami Malek) é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot se vê numa encruzilhada<a href="Mr-Robot.php">Mais ...</a></p></div>
     </div>
+	  <div class="thumbnail"><div class="series"><a href="Stranger-Things.php"><img src="images/stranger-things.jpg" alt="STRANGER THINGS" width="2000" class="cards"/></a>
+      <h4><a href="Stranger-Things.php">STRANGER THINGS</a></h4>
+      <p class="tag">&emsp;Ambientada em Montauk, Long Island, conta a história de um garoto que desaparece misteriosamente. Enquanto a polícia, a família e os amigos procuram respostas, eles <a href="Stranger-Things.php">Mais ...</a></p></div>
+      </div>
 	  <div class="thumbnail"><div class="series"><a href="Supernatural.php"><img src="images/Supernatural.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="Supernatural.php">SUPERNATURAL</a></h4>
       <p class="tag">&emsp;Desde que era pequeno, Sam Winchester (Jared Padalecki) tentava escapar do próprio passsado. Após a misteriosa morte de Mary (Samantha Smith), o pai de Sam<a href="Supernatural.php">Mais ...</a></p>  </div>
@@ -113,11 +117,7 @@
       <h4><a href="The-Originals.php">THE ORIGINALS</a></h4>
       <p class="tag">Um spin-off de The Vampire Diaries, que se passa em New Orleans. A série é centrada nos irmãos Mikaelson, que são conhecidos como os vampiros originais do mundo<a href="The-Originals.php">Mais ...</a></p>
     </div>
-    <div class="thumbnail"><div class="series"><a href="Stranger-Things.php"><img src="images/stranger-things.jpg" alt="STRANGER THINGS" width="2000" class="cards"/></a>
-      <h4><a href="Stranger-Things.php">STRANGER THINGS</a></h4>
-      <p class="tag">&emsp;Ambientada em Montauk, Long Island, conta a história de um garoto que desaparece misteriosamente. Enquanto a polícia, a família e os amigos procuram respostas, eles <a href="Stranger-Things.php">Mais ...</a></p></div>
-      </div>
-  </div>
+</div>
   <!-- Footer Section -->
   <footer id="contact">
     <p class="hero_header">SENTIU FALTA DE ALGUMA SÉRIE </p>
