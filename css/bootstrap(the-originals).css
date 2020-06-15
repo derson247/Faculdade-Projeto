@@ -5,23 +5,22 @@ body {
 	background-color: #FFFFFF;
 	margin: 0;
 }
+.corp{
+	background-image: url("../images/the-originals-poster.jpg");
+	background-repeat: no-repeat;
+	background-position:left top;
+	background-size:2250px;
+	display: block;
+}
+.center {
+	padding-top: 52px;
+}
 /* Container */
 .container {
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #FFFFFF;
-}
-/* Header */
-header {
-	width: 90%;
-	padding: 52px;
-	float: left;
-	height: 100px;
-	background-image: url(../images/the-originals-logo.jpg);
-	background-size: 920px;
-	background-repeat: no-repeat;
-	background-position: center
+	margin-top: 20px;
 }
 /* MENU */
 #select {
