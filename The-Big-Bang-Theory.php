@@ -10,8 +10,11 @@
 <link rel="shortcut icon" href="images/vsicon.png"></head>
 <body>	
 <!-- Main Container -->
-<div class="corp"><div align="center" class="center"><img alt="" src="images/logo2.png"/></div>
- <div class="container">
+<div class="container">
+<!-- Header -->
+  <header class="header">
+    
+  </header><h4 class="logo">VIA SÉRIE </h4>
 <div class=" menu-item-43">
     <nav id="menu" class="container">
       <ul id="menu-top-menu" class="sf-menu">
@@ -120,7 +123,7 @@
             <li><a href="#" class="text">The Big Bang Theory T01EP22</a></li>
             <li><a href="#" class="text">The Big Bang Theory T01EP23</a></li>
             </ul></div>
-		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>2ª Temporada</span></h3>
 			<div id="temp2">
 			<ul id="lista_eps2">
              <li><a href="#" class="text">The Big Bang Theory T02EP01</a></li>
@@ -149,7 +152,7 @@
                 </ul></div>
             <div id="temp3">
 			<ul id="lista_eps3">
-			<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>3ª Temporada</span></h3>
             <li><a href="#" class="text">The Big Bang Theory T03EP01</a></li>
             <li><a href="#" class="text">The Big Bang Theory T03EP02</a></li>
             <li><a href="#" class="text">The Big Bang Theory T03EP03</a></li>
@@ -177,7 +180,7 @@
             </div>
             <div id="temp4">
 			<ul id="lista_eps4">
-			<h3 class="heading"><span>4ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>4ª Temporada</span></h3>
             <li><a href="#" class="text">The Big Bang Theory T04EP01</a></li>
             <li><a href="#" class="text">The Big Bang Theory T04EP02</a></li>
             <li><a href="#" class="text">The Big Bang Theory T04EP03</a></li>
@@ -205,7 +208,7 @@
             </div>
             <div id="temp5">
 			<ul id="lista_eps5">
-			<h3 class="heading"><span>5ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>5ª Temporada</span></h3>
             <li><a href="#" class="text">The Big Bang Theory T05EP01</a></li>
             <li><a href="#" class="text">The Big Bang Theory T05EP02</a></li>
             <li><a href="#" class="text">The Big Bang Theory T05EP03</a></li>
@@ -233,7 +236,7 @@
             </div>
             <div id="temp6">
 			<ul id="lista_eps6">
-			<h3 class="heading"><span>6ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>6ª Temporada</span></h3>
             <li><a href="#" class="text">The Big Bang Theory T06EP01</a></li>
             <li><a href="#" class="text">The Big Bang Theory T06EP02</a></li>
             <li><a href="#" class="text">The Big Bang Theory T06EP03</a></li>
@@ -261,7 +264,7 @@
             </div>
             <div id="temp7">
 			<ul id="lista_eps7">
-			<h3 class="heading"><span>7ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>7ª Temporada</span></h3>
             <li><a href="#" class="text">The Big Bang Theory T07EP01</a></li>
             <li><a href="#" class="text">The Big Bang Theory T07EP02</a></li>
             <li><a href="#" class="text">The Big Bang Theory T07EP03</a></li>
@@ -289,7 +292,7 @@
             </div>
             <div id="temp8">
 			<ul id="lista_eps8">
-			<h3 class="heading"><span>8ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>8ª Temporada</span></h3>
             <li><a href="#" class="text">The Big Bang Theory T08EP01</a></li>
             <li><a href="#" class="text">The Big Bang Theory T08EP02</a></li>
             <li><a href="#" class="text">The Big Bang Theory T08EP03</a></li>
@@ -332,32 +335,21 @@
             <li><a href="#" class="text">The Big Bang Theory T09EP23</a></li>-->
             <div id="temp9">
 			<ul id="lista_eps9">
-			<h3 class="heading"><span>10ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP01.php" class="text">The Big Bang Theory T10EP01</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP02.php" class="text">The Big Bang Theory T10EP02</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP03.php" class="text">The Big Bang Theory T10EP03</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP04.php" class="text">The Big Bang Theory T10EP04</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP05.php" class="text">The Big Bang Theory T10EP05</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP06.php" class="text">The Big Bang Theory T10EP06</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP07.php" class="text">The Big Bang Theory T10EP07</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP08.php" class="text">The Big Bang Theory T10EP08</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP09.php" class="text">The Big Bang Theory T10EP09</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP10.php" class="text">The Big Bang Theory T10EP10</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP11.php" class="text">The Big Bang Theory T10EP11</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP12.php" class="text">The Big Bang Theory T10EP12</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP13.php" class="text">The Big Bang Theory T10EP13</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP14.php" class="text">The Big Bang Theory T10EP14</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP15.php" class="text">The Big Bang Theory T10EP15</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP16.php" class="text">The Big Bang Theory T10EP16</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP17.php" class="text">The Big Bang Theory T10EP17</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP18.php" class="text">The Big Bang Theory T10EP18</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP19.php" class="text">The Big Bang Theory T10EP19</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP20.php" class="text">The Big Bang Theory T10EP20</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP21.php" class="text">The Big Bang Theory T10EP21</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP22.php" class="text">The Big Bang Theory T10EP22</a></li>
-            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP23.php" class="text">The Big Bang Theory T10EP23</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP24.php" class="text">The Big Bang Theory T10EP24</a></li>
-				</ul>
+			<h3 class="heading"><span>10ª Temporada</span></h3>
+            <li><a href="The-Big-Bang-Theory-T10EP01.php" class="text">The Big Bang Theory T10EP01 / <strong><a href="The-Big-Bang-Theory-T10EP01-leg" style="color:green;text-decoration:none" class="text"> LEGENDADO</a></strong></a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP02.php" class="text">The Big Bang Theory T10EP02 / <strong><a href="The-Big-Bang-Theory-T10EP02-leg" style="color:green; text-decoration:none" class="text">LEGENDADO</a></strong></a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP03.php" class="text">The Big Bang Theory T10EP03 / <strong><a href="The-Big-Bang-Theory-T10EP03-leg" style="color:green; text-decoration:none" class="text">LEGENDADO</a></strong></a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP04.php" class="text">The Big Bang Theory T10EP04 / <strong><a href="The-Big-Bang-Theory-T10EP04-leg" style="color:green; text-decoration:none" class="text">LEGENDADO</a></strong></a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP05.php" class="text">The Big Bang Theory T10EP05 / <strong><a href="The-Big-Bang-Theory-T10EP05-leg" style="color:green; text-decoration:none" class="text">LEGENDADO</a></strong></a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP06.php" class="text">The Big Bang Theory T10EP06 / <strong><a href="The-Big-Bang-Theory-T10EP06-leg" style="color:green; text-decoration:none" class="text">LEGENDADO</a></strong></a></li>
+             <li><a href="The-Big-Bang-Theory-T10EP07.php" class="text">The Big Bang Theory T10EP07 / <strong><a href="The-Big-Bang-Theory-T10EP07-leg" style="color:green; text-decoration:none" class="text">LEGENDADO</a></strong></a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP08-leg.php" class="text">The Big Bang Theory T10EP08 / LEGENDADO</a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP09-leg.php" class="text">The Big Bang Theory T10EP09 / LEGENDADO</a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP10-leg.php" class="text">The Big Bang Theory T10EP10 / LEGENDADO</a></li>
+			<li><a href="The-Big-Bang-Theory-T10EP11-leg.php" class="text">The Big Bang Theory T10EP11 / LEGENDADO </a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP12-leg.php" class="text">The Big Bang Theory T10EP12 / LEGENDADO </a></li>
+            <li><a href="The-Big-Bang-Theory-T10EP13-leg.php" class="text">The Big Bang Theory T10EP13 / LEGENDADO <img src="images/new.png" alt="Novo episodio 'Temporada 10 episodio 13' " width="29px"/></a></li>
+            </ul>
             </div></div></div>
             <!-- Seção final -->
   			<footer id="contact">

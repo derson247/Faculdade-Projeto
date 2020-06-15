@@ -97,17 +97,17 @@
       <h4><a href="#">SCREAM QUEENS</a></h4>
       <p class="tag">Antologia de comédia e terror que se inicia em uma faculdade dos Estados Unidos, onde uma série de assassinatos começa a acontecer de forma misteriosa<a href="Scream-Queens">Mais ...</a></p>
     </div>
-    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/selfie.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="#">SELFIE</a> </h4>
-      <p class="tag">Selfie conta a história da jovem Eliza Dooley (Karen Gillan) que é viciada nos seus perfis nas redes sociais e vive mais preocupada com seus "likes" no mundo virtual do<a href="#">Mais ...</a></p>
+    <div class="thumbnail"><a href="Selfie.php"><img src="images/selfie.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="Selfie.php">SELFIE</a> </h4>
+      <p class="tag">Selfie conta a história da jovem Eliza Dooley (Karen Gillan) que é viciada nos seus perfis nas redes sociais e vive mais preocupada com seus "likes" no mundo virtual do<a href="Selfie">Mais ...</a></p>
     </div>
     <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/Sense8.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="#">SENSE8</a></h4>
       <p class="tag">Grupos de pessoas ao redor do mundo estão ligadas mentalmente, e precisam achar uma maneira de sobreviver sendo caçados por aqueles que os veem como uma<a href="#">Mais ...</a></p> 
     </div>
-    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/shadowhunters.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="#">SHADOWHUNTERS</a></h4>
-      <p class="tag">Clary (Katherine McNamara) é uma adolescente comum que, sem querer, presencia um assassinato dos “Caçadores de Sombras”. Ela se unirá ao grupo de misteriosos<a href="#">Mais ...</a></p>  
+    <div class="thumbnail"><a href="Shadowhunters.php"><img src="images/shadowhunters.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="Shadowhunters.php">SHADOWHUNTERS</a></h4>
+      <p class="tag">Clary (Katherine McNamara) é uma adolescente comum que, sem querer, presencia um assassinato dos “Caçadores de Sombras”. Ela se unirá ao grupo de misteriosos<a href="Shadowhunters">Mais ...</a></p>  
     </div>
     <div class="thumbnail"><a href="Stranger-Things.php"><img src="images/stranger-things.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="Stranger-Things.php">STRANGER THINGS</a></h4>
@@ -117,9 +117,9 @@
       <h4><a href="#">STALKER</a></h4>
       <p class="tag">Uma dupla de detetives precisa lidar com incidentes envolvendo perseguidores para a Unidade de Gerenciamento de Ameaças da Polícia de Los Angeles<a href="#">Mais ...</a></p>
     </div>
-    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/supergirl.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="#">SUPERGIRL</a></h4>
-      <p class="tag">Kara Zor-El nasceu no planeta Krypton, e escapou da destruição há anos. Desde então, ela chegou à Terra, e vem escondendo os poderes que ela e seus primos têm. Mas agora<a href="#">Mais ...</a></p>
+    <div class="thumbnail"><a href="Supergirl.php"><img src="images/supergirl.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="Supergirl.php">SUPERGIRL</a></h4>
+      <p class="tag">Kara Zor-El nasceu no planeta Krypton, e escapou da destruição há anos. Desde então, ela chegou à Terra, e vem escondendo os poderes que ela e seus primos têm. Mas agora<a href="Supergirl">Mais ...</a></p>
       </div>
     <div class="thumbnail"> <a href="Supernatural.php"><img src="images/Supernatural.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="Supernatural.php">SUPERNATURAL</a></h4>

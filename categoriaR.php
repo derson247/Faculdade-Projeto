@@ -96,9 +96,9 @@
       <h4><a href="#">REIGN</a></h4>
       <p class="tag">Conta a história da ascenção de Mary Queen of Scots (Adelaide Kane) ao poder, quando ela chega à França aos 15 anos de idade, prometida ao Príncipe Francis, e com suas<a href="#">Mais ...</a></p>
     </div>
-    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/revenge.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="#">REVENGE</a></h4>
-      <p class="tag">Amanda Clarke (Emily VanCamp) torna-se Emily Thorne após ver sua família ser destruída e seu pai falecer. Quando era criança, a moça suportou a prisão injusta de<a href="#">Mais ...</a></p>  
+    <div class="thumbnail"><a href="Revenge.php"><img src="images/revenge.jpg" alt="" width="2000" class="cards"/></a>
+      <h4><a href="Revenge.php">REVENGE</a></h4>
+      <p class="tag">Amanda Clarke (Emily VanCamp) torna-se Emily Thorne após ver sua família ser destruída e seu pai falecer. Quando era criança, a moça suportou a prisão injusta de<a href="Revenge">Mais ...</a></p>  
     </div>
     <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/rush-hour.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="#">RUSH HOUR</a></h4>

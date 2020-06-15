@@ -99,7 +99,7 @@
 		<p>Status: Em Produção</p>
 		<p>Duração: 45 minutos</p></p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
             <li><a href="Mr-Robot/Mr-Robot-T01EP01.php" class="text">MR. ROBOT T01EP01</a></li>
@@ -113,7 +113,7 @@
             <li><a href="Mr-Robot/Mr-Robot-T01EP09.php" class="text">MR. ROBOT T01EP09</a></li>
             <li><a href="Mr-Robot/Mr-Robot-T01EP10.php" class="text">MR. ROBOT T01EP10</a></li>
             </ul></div>
-		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>2ª Temporada</span></h3>
 			<div id="temp2">
 			<ul id="lista_eps2">
             <li><a href="Mr-Robot/Mr-Robot-T02EP01.php" class="text">MR. ROBOT T02EP01</a></li>
@@ -128,7 +128,7 @@
             <li><a href="Mr-Robot/Mr-Robot-T02EP10.php" class="text">MR. ROBOT T02EP10</a></li>
             <li><a href="Mr-Robot/Mr-Robot-T02EP11.php" class="text">MR. ROBOT T02EP11</a></li>
                 </ul></div>
-	 	<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
+	 	<h3 class="heading"><span>3ª Temporada</span></h3>
 			<div id="temp3">
 			<ul id="lista_eps3">
             <li><a href="Mr-Robot/Mr-Robot-T03EP01.php" class="text">MR. ROBOT T03EP01</a></li>

@@ -129,7 +129,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T01EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T01EP23</a></li>
             </ul></div>
-		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>2ª Temporada</span></h3>
 			<div id="temp2">
 			<ul id="lista_eps2">
      		<li><a href="#" title=".php" class="text">Supernatural T02EP01</a></li>
@@ -156,7 +156,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T02EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T02EP23</a></li>
               </ul></div>
-			<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>3ª Temporada</span></h3>
 			<div id="temp3">
 			<ul id="lista_eps3">
             <li><a href="#" title=".php" class="text">Supernatural T03EP01</a></li>
@@ -183,7 +183,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T03EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T03EP23</a></li>
             	</ul></div>
-           <h3 class="heading"><span>4ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+           <h3 class="heading"><span>4ª Temporada</span></h3>
 			<div id="temp4">
 			<ul id="lista_eps4">
             <li><a href="#" title=".php" class="text">Supernatural T04EP01</a></li>
@@ -209,7 +209,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T04EP21</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T04EP22</a></li>
             </ul></div>
-            <h3 class="heading"><span>5ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>5ª Temporada</span></h3>
            <div id="temp5">
 			<ul id="lista_eps5">
             <li><a href="#" title=".php" class="text">Supernatural T05EP01</a></li>
@@ -236,7 +236,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T05EP22</a></li>
             </ul>
            	</div>
-            <h3 class="heading"><span>6ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>6ª Temporada</span></h3>
             <div id="temp6">
 			<ul id="lista_eps6">
             <li><a href="#" title=".php" class="text">Supernatural T06EP01</a></li>
@@ -262,7 +262,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T06EP21</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T06EP22</a></li>
             </ul></div>
-            <h3 class="heading"><span>7ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>7ª Temporada</span></h3>
             <div id="temp7">
 			<ul id="lista_eps7">
             <li><a href="#" title=".php" class="text">Supernatural T07EP01</a></li>
@@ -288,7 +288,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T07EP21</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T07EP22</a></li>
             </ul></div>
-            <h3 class="heading"><span>8ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>8ª Temporada</span></h3>
             <div id="temp8">
 			<ul id="lista_eps8">
             <li><a href="#" title=".php" class="text">Supernatural T08EP01</a></li>
@@ -315,7 +315,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T08EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T08EP23</a></li>
             </ul></div>
-            <h3 class="heading"><span>9ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>9ª Temporada</span></h3>
             <div id="temp9">
 			<ul id="lista_eps9">
             <li><a href="#" title=".php" class="text">Supernatural T09EP01</a></li>
@@ -342,7 +342,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T09EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T09EP23</a></li>
             </ul></div>
-            <h3 class="heading"><span>10ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>10ª Temporada</span></h3>
             <div id="temp10">
 			<ul id="lista_eps10">
             <li><a href="#" title=".php" class="text">Supernatural T10EP00</a></li>
@@ -370,7 +370,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T10EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T10EP23</a></li>
             </ul></div>-->
-             <h3 class="heading"><span>11ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+             <h3 class="heading"><span>11ª Temporada</span></h3>
             <div id="temp11">
 			<ul id="lista_eps11">
             <li><a href="Supernatural/Supernatural-T11EP01.php" class="text">Supernatural T11EP01</a></li>
@@ -397,7 +397,7 @@
             <li><a href="Supernatural/Supernatural-T11EP22.php" class="text">Supernatural T11EP22</a></li>
             <li><a href="Supernatural/Supernatural-T11EP23.php" class="text">Supernatural T11EP23</a></li>
             </ul></div>
-            <h3 class="heading"><span>12ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>12ª Temporada</span></h3>
             <div id="temp12">
 			<ul id="lista_eps12">
             <li><a href="Supernatural/Supernatural-T12EP01.php" class="text">Sueprnatural T12EP01 / <a href="Supernatural/Supernatural-T12EP01-leg.php" style="text-decoration: none; color:green">LEGENDADO</a></a></li>
@@ -424,7 +424,7 @@
             <li><a href="Supernatural/Supernatural-T12EP22.php" class="text">Supernatural T12EP22</a></li>
             <li><a href="Supernatural/Supernatural-T12EP23.php" class="text">Supernatural T12EP23</a></li>
             </ul></div>
-		<h3 class="heading"><span>13ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>13ª Temporada</span></h3>
             <div id="temp13">
 			<ul id="lista_eps13">
             <li><a href="Supernatural/Supernatural-T13EP01.php" class="text">Supernatural T13EP01</a></li>
