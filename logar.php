@@ -16,8 +16,9 @@ $dados = mysqli_fetch_assoc($verifica);
      
         $_SESSION['email'] = $email;
         $_SESSION['nome'] = $dados['nome'];
-	  	$_SESSION['id'] = $dados['id_usuarios'];
-        setcookie("email",$email);
+        $_SESSION['id_usuarios'] = $dados['id'];
+         setcookie("email",$email);
+    
         header("Location:profile.php");
       }
       else{
