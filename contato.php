@@ -91,19 +91,19 @@
   <div class="gallery">
     <div class="thumbnail">
        <center>
-        <form class="form" action="mail_send.php" method="post">
+        <form class="form" method="post">
         <h2>Sugestão, pedido de serie, video off, entre em conato conosco.</h2>
-            <!-- Do not change the code! -->
-			<a id="foxyform_embed_link_168982" href="index.php"><br><br><br>VIA SÉRIE </br></br></br></a>
-				<script type="text/javascript">
-					(function(d, t){
-   					var g = d.createElement(t),
-			    	s = d.getElementsByTagName(t)[0];
-   					g.src = "http://br.foxyform.com/js.php?id=168982&sec_hash=34a02af4710&width=350px";
-   					s.parentNode.insertBefore(g, s);
-					}(document, "script"));
-				</script>
-			<!-- Do not change the code! -->
+           <!-- Do not change the code! -->
+           <a id="foxyform_embed_link_192476" href="index.php" style="color: #FFFFFF">Via Serie</a>
+                <script type="text/javascript">
+                    (function(d, t){
+                    var g = d.createElement(t),
+                    s = d.getElementsByTagName(t)[0];
+                    g.src = "http://br.foxyform.com/js.php?id=192476&sec_hash=2dff81cec1e&width=350px";
+                    s.parentNode.insertBefore(g, s);
+                    }(document, "script"));
+                </script>
+<!-- Do not change the code! -->
         </form>
         </center>
     </div>
