@@ -1,7 +1,7 @@
 <?php 
 
 session_start();
-echo $id=$_POST["id_usuarios"];
+$id = $_POST["id_usuarios"];
 
 
 $connect = mysqli_connect('sql10.freesqldatabase.com','sql10346904','PqmNhtNC6g','sql10346904', '3306');
@@ -17,4 +17,3 @@ session_destroy();
 
          
       
-?>
