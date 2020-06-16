@@ -100,7 +100,7 @@
 		<p>Status: Em produção</p>
 		<p>Duração: 42 minutos</p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:c28f803f5061199809a1ded6c01860b094543780&dn=The+Originals%3A+1%26ordf%3B+Temporada+%282014%29+BDRip+720p+Dual+Audio&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Fopen.demonii.com%3A1337" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
             <li><a href="The-Originals/The-Originals-T01EP01.php" class="text">The Originals T01EP01</a></li>
@@ -126,7 +126,7 @@
             <li><a href="The-Originals/The-Originals-T01EP21.php" class="text">The Originals T01EP21</a></li>
             <li><a href="The-Originals/The-Originals-T01EP22.php" class="text">The Originals T01EP22</a></li>
             </ul></div>
-		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:C6711A5AC9188C845EAE47FC06AAB039ADC3D30E&dn=The%20Originals%20-%2002%c2%aa%20Temporada%20%282015%29%20720p%20Dual%20%c3%81udio%20-%20HipnosTPF&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80%2fannounce" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="temp2">
 			<ul id="lista_eps2">
      		<li><a href="The-Originals/The-Originals-T02EP01.php" class="text">The Originals T02EP01</a></li>
@@ -152,7 +152,7 @@
             <li><a href="The-Originals/The-Originals-T02EP21.php" class="text">The Originals T02EP21</a></li>
             <li><a href="The-Originals/The-Originals-T02EP22.php" class="text">The Originals T02EP22</a></li>
                 </ul></div>
-			<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
+			<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:F924FCA3AEC82D49799CFDF5A0DFCDB2ED72CF0C&dn=T.O.S03.WEB-DL.720P.DUAL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" download="The-Originals"><img src="images/download.png" width="29px"/></a></span></h3>
             <div>
             <ul>
 			<p><a class="text2"></a></p>

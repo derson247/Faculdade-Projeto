@@ -90,7 +90,7 @@
     	</select>
 <div class="gallery">
     <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/2broke.jpg" alt="" width="2000" class="cards"/></a>
-      <h4><a href="2-Broke-Girls.php">2 BROKE GIRLS</a></h4>
+      <h4><a href="#">2 BROKE GIRLS</a></h4>
       <p class="tag">2 Broke Girls narra a vida de duas garçonetes: Max, uma garota pobre, e Caroline, que nasceu rica mas perdeu tudo<a href="#">Mais ...</a></p>
     </div>
   <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/12monkeys.jpg" alt="" width="2000" class="cards"/></a>

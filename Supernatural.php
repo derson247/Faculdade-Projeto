@@ -370,7 +370,7 @@
             <li><a href="#" title=".php" class="text">Supernatural T10EP22</a></li>
             <li><a href="#" title=".php" class="text">Supernatural T10EP23</a></li>
             </ul></div>-->
-             <h3 class="heading"><span>11ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+             <h3 class="heading"><span>11ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:6E316FE41B116D1FCDF119F60FD71C196D32F5BC&dn=Sobrenatural%202016%2011%c2%aa%20Temporada%20Completa%20%5bWEB-DL%5d%20%5b1080p%5d%20WWW.BLUDV.COM&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
             <div id="temp11">
 			<ul id="lista_eps11">
             <li><a href="Supernatural/Supernatural-T11EP01.php" class="text">Supernatural T11EP01</a></li>
@@ -397,14 +397,14 @@
             <li><a href="Supernatural/Supernatural-T11EP22.php" class="text">Supernatural T11EP22</a></li>
             <li><a href="Supernatural/Supernatural-T11EP23.php" class="text">Supernatural T11EP23</a></li>
             </ul></div>
-            <h3 class="heading"><span>12ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+            <h3 class="heading"><span>12ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:70569347EED36AFDCB6E5F165A8052EB22938BA4&dn=Sobrenatural%2012%C2%AA%20Temporada%20%282017%29%20Dublado%20720p%20WEB-DL%20By-LuanHarper&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
             <div id="temp12">
 			<ul id="lista_eps12">
-            <li><a href="Supernatural/Supernatural-T12EP01.php" class="text">Sueprnatural T12EP01 / <a href="Supernatural/Supernatural-T12EP01-leg.php" style="text-decoration: none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Supernatural/Supernatural-T12EP02.php" class="text">Sueprnatural T12EP02  / <a href="Supernatural/Supernatural-T12EP02-leg.php" style="text-decoration: none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Supernatural/Supernatural-T12EP03.php" class="text">Sueprnatural T12EP03  / <a href="Supernatural/Supernatural-T12EP03-leg.php" style="text-decoration: none; color:green">LEGENDADO</a></a></li>
-			<li><a href="Supernatural/Supernatural-T12EP04.php" class="text">Sueprnatural T12EP04  / <a href="Supernatural/Supernatural-T12EP04-leg.php" style="text-decoration: none; color:green">LEGENDADO</a></a></li>
-			<li><a href="Supernatural/Supernatural-T12EP05.php" class="text">Supernatural T12EP05</a></li>
+            <li><a href="Supernatural/Supernatural-T12EP01.php" class="text">Sueprnatural T12EP01</a></li>
+            <li><a href="Supernatural/Supernatural-T12EP02.php" class="text">Sueprnatural T12EP02</a></li>
+            <li><a href="Supernatural/Supernatural-T12EP03.php" class="text">Sueprnatural T12EP03</a></li>
+	    <li><a href="Supernatural/Supernatural-T12EP04.php" class="text">Sueprnatural T12EP04></a></li>
+	    <li><a href="Supernatural/Supernatural-T12EP05.php" class="text">Supernatural T12EP05</a></li>
             <li><a href="Supernatural/Supernatural-T12EP06.php" class="text">Supernatural T12EP06</a></li>
             <li><a href="Supernatural/Supernatural-T12EP07.php" class="text">Supernatural T12EP07</a></li>
             <li><a href="Supernatural/Supernatural-T12EP08.php" class="text">Supernatural T12EP08</a></li>
@@ -424,7 +424,7 @@
             <li><a href="Supernatural/Supernatural-T12EP22.php" class="text">Supernatural T12EP22</a></li>
             <li><a href="Supernatural/Supernatural-T12EP23.php" class="text">Supernatural T12EP23</a></li>
             </ul></div>
-		<h3 class="heading"><span>13ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>13ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:1DC0799D0977D03471302D1AF4C002124A99AEF1&dn=Supernatural%2013%C2%AA%20Temporada%20%282018%29%20Dual%20%C3%81udio%20720p%20%5bWEB-DL%5d%20By-LuanHarper&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.vanitycore.co%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2finferno.demonoid.pw%3a3418%2fannounce&tr=udp%3a%2f%2fbt.xxx-tracker.com%3a2710%2fannounce&tr=http%3a%2f%2ftracker.electro-torrent.pl%3a80%2fannounce&tr=http%3a%2f%2ftracker.city9x.com%3a2710%2fannounce&tr=http%3a%2f%2fshare.camoe.cn%3a8080%2fannounce&tr=http%3a%2f%2fretracker.mgts.by%3a80%2fannounce" download="Supernatural"><img src="images/download.png" width="29px"/></a></span></h3>
             <div id="temp13">
 			<ul id="lista_eps13">
             <li><a href="Supernatural/Supernatural-T13EP01.php" class="text">Supernatural T13EP01</a></li>
@@ -447,9 +447,9 @@
             <li><a href="Supernatural/Supernatural-T13EP18.php" class="text">Supernatural T13EP18</a></li>
             <li><a href="Supernatural/Supernatural-T13EP19.php" class="text">Supernatural T13EP19</a></li>
             <li><a href="Supernatural/Supernatural-T13EP20.php" class="text">Supernatural T13EP20</a></li>
-           	<li><a href="Supernatural/Supernatural-T13EP21.php" class="text">Supernatural T13EP21</a></li>
+            <li><a href="Supernatural/Supernatural-T13EP21.php" class="text">Supernatural T13EP21</a></li>
             <li><a href="Supernatural/Supernatural-T13EP22.php" class="text">Supernatural T13EP22</a></li>
-            <li><a href="Supernatural/Supernatural-T13EP23.php" class="text">Supernatural T13EP23 <img src="images/new.png" alt="Novo episodio 'Temporada 13ª episodio 23" width="29px"/></a></li>
+            <li><a href="Supernatural/Supernatural-T13EP23.php" class="text">Supernatural T13EP23</a></li>
 			</ul></div>
     </div>
 	 </div></div>

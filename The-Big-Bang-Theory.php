@@ -331,8 +331,8 @@
             <li><a href="#" class="text">The Big Bang Theory T09EP22</a></li>
             <li><a href="#" class="text">The Big Bang Theory T09EP23</a></li>-->
             <div id="temp9">
-			<ul id="lista_eps9">
-			<h3 class="heading"><span>10ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
+                <ul id="lista_eps9">
+		<h3 class="heading"><span>10ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:91A02209EE406A3ABD3BF7788E3FEEABC93568A8&dn=Big%20Bang%20-%20A%20Teoria%202015%20-%2010%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2740%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce" download="The-Big-Bang-Theory"><img src="images/download.png" width="29px"/></a></span></h3>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP01.php" class="text">The Big Bang Theory T10EP01</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP02.php" class="text">The Big Bang Theory T10EP02</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP03.php" class="text">The Big Bang Theory T10EP03</a></li>
@@ -343,20 +343,20 @@
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP08.php" class="text">The Big Bang Theory T10EP08</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP09.php" class="text">The Big Bang Theory T10EP09</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP10.php" class="text">The Big Bang Theory T10EP10</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP11.php" class="text">The Big Bang Theory T10EP11</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP11.php" class="text">The Big Bang Theory T10EP11</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP12.php" class="text">The Big Bang Theory T10EP12</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP13.php" class="text">The Big Bang Theory T10EP13</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP14.php" class="text">The Big Bang Theory T10EP14</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP15.php" class="text">The Big Bang Theory T10EP15</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP16.php" class="text">The Big Bang Theory T10EP16</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP17.php" class="text">The Big Bang Theory T10EP17</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP18.php" class="text">The Big Bang Theory T10EP18</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP19.php" class="text">The Big Bang Theory T10EP19</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP20.php" class="text">The Big Bang Theory T10EP20</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP21.php" class="text">The Big Bang Theory T10EP21</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP22.php" class="text">The Big Bang Theory T10EP22</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP14.php" class="text">The Big Bang Theory T10EP14</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP15.php" class="text">The Big Bang Theory T10EP15</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP16.php" class="text">The Big Bang Theory T10EP16</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP17.php" class="text">The Big Bang Theory T10EP17</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP18.php" class="text">The Big Bang Theory T10EP18</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP19.php" class="text">The Big Bang Theory T10EP19</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP20.php" class="text">The Big Bang Theory T10EP20</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP21.php" class="text">The Big Bang Theory T10EP21</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP22.php" class="text">The Big Bang Theory T10EP22</a></li>
             <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP23.php" class="text">The Big Bang Theory T10EP23</a></li>
-			<li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP24.php" class="text">The Big Bang Theory T10EP24</a></li>
+            <li><a href="The-Big-Bang-Theory/The-Big-Bang-Theory-T10EP24.php" class="text">The Big Bang Theory T10EP24</a></li>
 				</ul>
             </div></div></div>
             <!-- Seção final -->

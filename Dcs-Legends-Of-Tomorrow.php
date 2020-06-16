@@ -101,7 +101,7 @@
 		<p>Status: Em produção</p>
 		<p>Duração: 42 minutos</p></p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Dcs-Legends-Of-Tomorrow"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:1afc60c87714e4a4b2553647ab20b8de2b6f3a17&dn=DC%27s+Legends+of+Tomorrow+2016+-+1%C2%AA+Temporada+Completa+%5B1080p%5D+%5BWEB-DL%5D" download="Dcs-Legends-Of-Tomorrow"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
             <li><a href="DCs-Legends-Of-Tomorrow/DCs-Legends-Of-Tomorrow-T01EP01.php" title=".php" class="text">Legends Of Tomorrow T01EP01</a></li>

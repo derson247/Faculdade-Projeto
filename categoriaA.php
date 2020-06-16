@@ -89,7 +89,7 @@
       <?php  } ?>
       </select>
   <div class="gallery">
-    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/agent carter.jpg" alt="" width="2000" class="cards"/></a>
+    <div class="thumbnail" id="thumbnail10"><a href="#"><img src="images/agent_carter.jpg" alt="" width="2000" class="cards"/></a>
       <h4><a href="#">AGENT CARTER</a></h4>
       <p class="tag">Agent Carter conta a história Peggy Carter (Hayley Atwell). O ano é 1946, e Peggy se encontra marginalizada quando os homens retornam ao lar após a Guerra. Trabalhando<a href="#">Mais ...</a></p> 
     </div>

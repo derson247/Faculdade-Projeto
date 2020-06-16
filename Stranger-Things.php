@@ -103,7 +103,7 @@
       <p class="text_column2">Status: Em produção</p>
       <p class="text_column2">Duração: 60 minutos</p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:1616D23834D983452956046FAE9340EB9471A30D&dn=Stranger%20Things%20-%201%c2%aa%20Temporada%20%282016%29%20Dual%20%c3%81udio%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
             <li><a href="Stranger-Things/Stranger-Things-T01EP01.php" class="text">Stranger Things T01EP01</a></li>
@@ -115,7 +115,7 @@
             <li><a href="Stranger-Things/Stranger-Things-T01EP07.php" class="text">Stranger Things T01EP07</a></li>
             <li><a href="Stranger-Things/Stranger-Things-T01EP08.php" class="text">Stranger Things T01EP08</a></li>
             </ul></div>
-		<h3 class="thumb22"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:4A7E451C04E3B2D75842EFAD281B60F72047C33C" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps2">
         		<ul class="temps" id="temp2">
             <li><a href="Stranger-Things/Stranger-Things-T02EP01.php" class="text">Stranger Things T02EP01</a></li>
@@ -128,7 +128,7 @@
             <li><a href="Stranger-Things/Stranger-Things-T02EP08.php" class="text">Stranger Things T02EP08</a></li>
 			<li><a href="Stranger-Things/Stranger-Things-T02EP09.php" class="text">Stranger Things T02EP09</a></li>
             </ul></div>
-		<h3 class="thumb22"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:9FBC8927BB61C313686D89038D31949324E536CF&dn=Stranger%20Things%202019%20-%203%c2%aa%20Temporada%20Completa%20%28720p%29%20Acesse%20o%20ROIGINAL%20WWW.BLUDV.TV&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" download="Stranger-Things"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps3">
         		<ul class="temps" id="temp3">
             <li><a href="Stranger-Things/Stranger-Things-T03EP01.php" class="text">Stranger Things T03EP01</a></li>

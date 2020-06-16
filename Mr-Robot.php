@@ -99,7 +99,7 @@
 		<p>Status: Em Produção</p>
 		<p>Duração: 45 minutos</p></p>
 		<div class="ver"></div>
-		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="thumb22"><span>1ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:11A3E52CF42A7A30B0F01EF48A9930920ED548AC&dn=Mr.%20Robot%20%282015%29%20Dual%20%c3%81udio%20%2b%20Legendas%20720p%20%28By-LuanHarper%29&tr=udp%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2710%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=http%3a%2f%2fpow7.com%2fannounce&tr=%2audp%3a%2f%2fopen.demonii.com%3a1337%2fannounce&tr=udp%3a%2f%2fcoppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.blazing.de%2fannounce&tr=http%3a%2f%2ft2.pow7.com%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2f%2fannounce" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="epsetemps">
         		<ul class="temps" id="temp1">
             <li><a href="Mr-Robot/Mr-Robot-T01EP01.php" class="text">MR. ROBOT T01EP01</a></li>
@@ -113,7 +113,7 @@
             <li><a href="Mr-Robot/Mr-Robot-T01EP09.php" class="text">MR. ROBOT T01EP09</a></li>
             <li><a href="Mr-Robot/Mr-Robot-T01EP10.php" class="text">MR. ROBOT T01EP10</a></li>
             </ul></div>
-		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
+		<h3 class="heading"><span>2ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:AFA3A1073D179313B654631BF1300CF742577685&dn=Mr.Robot.S02E02ao04.720p.BluRay.x264.DUAL-WWW.TORRENTDOSFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2780%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fglotorrents.pw%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="temp2">
 			<ul id="lista_eps2">
             <li><a href="Mr-Robot/Mr-Robot-T02EP01.php" class="text">MR. ROBOT T02EP01</a></li>
@@ -128,7 +128,7 @@
             <li><a href="Mr-Robot/Mr-Robot-T02EP10.php" class="text">MR. ROBOT T02EP10</a></li>
             <li><a href="Mr-Robot/Mr-Robot-T02EP11.php" class="text">MR. ROBOT T02EP11</a></li>
                 </ul></div>
-	 	<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
+	 	<h3 class="heading"><span>3ª Temporada</span>&nbsp&nbsp&nbsp<span><a href="magnet:?xt=urn:btih:884C039ABBF7471FE891EF3ADBCDFC929360EB08&dn=%7bWWW.BLUDV.COM%7d%20Mr.%20Robot%20-%20Sociedade%20Hacker%202017%20-%203%C2%AA%20Temporada%20Completa%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2770%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=http%3a%2f%2fglotorrents.pw%3a80%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2ftorrent.gresille.org%3a80%2fannounce&tr=udp%3a%2f%2ftracker.aletorrenty.pl%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.piratepublic.com%3a1337%2fannounce" download="Mr-Robot"><img src="images/download.png" width="29px"/></a></span></h3>
 			<div id="temp3">
 			<ul id="lista_eps3">
             <li><a href="Mr-Robot/Mr-Robot-T03EP01.php" class="text">MR. ROBOT T03EP01</a></li>
@@ -141,7 +141,8 @@
             <li><a href="Mr-Robot/Mr-Robot-T03EP08.php" class="text">MR. ROBOT T03EP08</a></li>
             <li><a href="Mr-Robot/Mr-Robot-T03EP09.php" class="text">MR. ROBOT T03EP09</a></li>
             <li><a href="Mr-Robot/Mr-Robot-T03EP10.php" class="text">MR. ROBOT T03EP10</a></li>
-                </ul></div></div></div>
+                </ul></div>
+            <h3 class="heading"><span>4ª Temporada Em Breve</span></h3></div></div>
             <!-- Seção final -->
   			<footer id="contact">
     			<p class="hero_header text_column2">SENTIU FALTA DE ALGUMA SÉRIE </p>

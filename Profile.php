@@ -116,17 +116,10 @@ $logado = $_SESSION['email'];
         </div>
         </div>
         </div>
-        
-        <!-- END SIDEBAR USER TITLE -->
-        <!-- SIDEBAR BUTTONS -->
-        <!--<div class="profile-userbuttons">
-          <div class="botao"><a href="alterar.php">Editar Perfil</a></div>
-          <div class="content"> -->     
-      <!--LOGIN-->
-      
       
     </div>
         <div id="delete">
+             <div class="botao" id=""><p><a href="alterar.php">Alterar</a></p></div>
         <form action="deletar.php" method="post" > 
           
         
@@ -134,15 +127,18 @@ $logado = $_SESSION['email'];
           <input id="id_usuarios" type="hidden" name="id_usuarios" value="<?php echo $_SESSION['id_usuarios']; ?>"/> 
            
           <p> 
-            <input type="submit" value="deletar" name="deletar"/> 
+            <input type="submit" value="Deletar" name="deletar"/> 
           </p>
            
       
         </form>
+           
+            
+		  
+		  <div class="botao"><p><a href="sair.php">Sair</a></p></div>
     </div>
   </div>
-        <div class="botao-alterar"><p><a href="alterar.php">Alterar</a></p></div>
-		  <div class="botao-sair"><p><a href="sair.php">Sair</a></p></div>
+        
         </div>
         <!-- END SIDEBAR BUTTONS -->
         <!-- SIDEBAR MENU -->
