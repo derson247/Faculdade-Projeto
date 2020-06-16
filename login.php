@@ -51,7 +51,6 @@ else {header('location:profile.php');}
         <li id="menu-item-34"><a href="categoriaX.html">X</a></li>
         <li id="menu-item-35"><a href="categoriaY.html">Y</a></li>
         <li id="menu-item-36"><a href="categoriaZ.html">Z</a></li>
-        <li id="menu-item-37"><a href="netflix.html">Seção Netflix</a></li>
         <li id="menu-item-38"><a href="login.html"><u>Login / Cadastro</u></a></li>
 		  </ul>
     </nav></div>
