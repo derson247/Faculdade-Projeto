@@ -10,4 +10,4 @@ Nome do database:sql10346904
 Porta:3306
 Servidor:sql10.freesqldatabase.com
 
-Para que o usuario entre em contato conosco, utilizamos um form de contato do site: http://br.foxyform.com/.
+Para que o usuário entre em contato conosco, utilizamos um form de contato do site: http://br.foxyform.com/.
