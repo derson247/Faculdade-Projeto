@@ -165,17 +165,17 @@
             <li><a href="Gotham/Gotham-T03EP03.php" class="text">Gotham T03EP03</a></li>
             <li><a href="Gotham/Gotham-T03EP04.php" class="text">Gotham T03EP04</a></li>
             <li><a href="Gotham/Gotham-T03EP05.php" class="text">Gotham T03EP05</a></li>
-            <li><a href="Gotham/Gotham-T03EP06.php" class="text">Gotham T03EP06 / <a href="Gotham/Gotham-T03EP06-leg" style="text-decoration:none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Gotham/Gotham-T03EP07-leg.php" class="text">Gotham T03EP07 / <a href="Gotham/Gotham-T03EP07-leg" style="text-decoration:none; color:green">LEGENDADO</a></li>
-            <li><a href="Gotham/Gotham-T03EP08-leg.php" class="text">Gotham T03EP08 / <a href="Gotham/Gotham-T03EP08-leg" style="text-decoration:none; color:green">LEGENDADO</a></li>
-            <li><a href="Gotham/Gotham-T03EP09.php" class="text">Gotham T03EP09 <a href="Gotham/Gotham-T03EP09-leg" style="text-decoration:none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Gotham/Gotham-T03EP10.php" class="text">Gotham T03EP10 <a href="Gotham/Gotham-T03EP10-leg" style="text-decoration:none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Gotham/Gotham-T03EP11.php" class="text">Gotham T03EP11 <a href="Gotham/Gotham-T03EP11-leg" style="text-decoration:none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Gotham/Gotham-T03EP12-leg.php" class="text">Gotham T03EP12 <a href="Gotham/Gotham-T03E12-leg" style="text-decoration:none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Gotham/Gotham-T03EP13-leg.php" class="text">Gotham T03EP13 <a href="Gotham/Gotham-T03EP13-leg" style="text-decoration:none; color:green">LEGENDADO</a></a></li>
-            <li><a href="Gotham/Gotham-T03EP14-leg.php" class="text">Gotham T03EP14 <a href="Gotham/Gotham-T03EP14-leg" style="text-decoration:none; color:green">LEGENDADO</a> <img src="images/new.png" alt="Novo episodio '3ª Temporada episodio 14 Legendado" width="29px"/></a></li>
-            <!--<li><a href="#" class="text">Gotham T03EP15</a></li>
-            <li><a href="#" class="text">Gotham T03EP16</a></li>
+            <li><a href="Gotham/Gotham-T03EP06.php" class="text">Gotham T03EP06</a></li>
+            <li><a href="Gotham/Gotham-T03EP07.php" class="text">Gotham T03EP07</a></li>
+            <li><a href="Gotham/Gotham-T03EP08.php" class="text">Gotham T03EP08</a></li>
+            <li><a href="Gotham/Gotham-T03EP09.php" class="text">Gotham T03EP09</a></li>
+            <li><a href="Gotham/Gotham-T03EP10.php" class="text">Gotham T03EP10</a></li>
+            <li><a href="Gotham/Gotham-T03EP11.php" class="text">Gotham T03EP11</a></li>
+            <li><a href="Gotham/Gotham-T03EP12.php" class="text">Gotham T03EP12</a></li>
+            <li><a href="Gotham/Gotham-T03EP13.php" class="text">Gotham T03EP13</a></li>
+            <li><a href="Gotham/Gotham-T03EP14.php" class="text">Gotham T03EP14</a></li>
+            <li><a href="Gotham/Gotham-T03EP15.php" class="text">Gotham T03EP15</a></li>
+            <!--<li><a href="#" class="text">Gotham T03EP16</a></li>
             <li><a href="#" class="text">Gotham T03EP17</a></li>
             <li><a href="#" class="text">Gotham T03EP18</a></li>
             <li><a href="#" class="text">Gotham T03EP19</a></li>
