@@ -90,6 +90,7 @@
   <div class="gallery">
   	<div class="thumbnail">
        	<video autoplay controls  width="500" class="cards" src="https://prisma1.azureedge.net/d/RCServer11/ondemand/GTHMT03EP12.mp4" type="video/mp4"></video>
+        <h4>Gotham T03EP12</h4>
         </div></div>
         <!-- Footer Section -->
   <footer id="contact">
