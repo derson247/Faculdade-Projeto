@@ -90,7 +90,7 @@
       </select>
   <div class="gallery">
   		<div class="thumbnail">
-		<video autoplay controls  width="500" class="cards" src="https://prisma1.azureedge.net/d/RCServer11/ondemand/TBBTT10EP01.mp4" type="video/mp4"></video>  
+		<video autoplay controls  width="500" class="cards" src="https://rc-downloads.azureedge.net/d/RCServer11/ondemand/TBBTT10EP01.mp4" type="video/mp4"></video>  
         <h4>The Big Bang Theory T10EP02</h4>
         </div></div>
         <!-- Footer Section -->

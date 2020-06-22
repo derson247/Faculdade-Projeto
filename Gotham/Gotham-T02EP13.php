@@ -90,7 +90,7 @@
       <?php  } ?>
       </select>
   <div class="gallery">
-  		<video autoplay controls  width="500" class="cards" src="https://prisma1.azureedge.net/d/RCServer10/ondemand/GTHMT02EP13.mp4" type="video/mp4"></video>       
+  		<video autoplay controls  width="500" class="cards" src="https://rc-downloads.azureedge.net/d/RCServer10/ondemand/GTHMT02EP13.mp4" type="video/mp4"></video>       
         <h4>Gotham T02EP13</h4>
         </div></div>
         <!-- Footer Section -->

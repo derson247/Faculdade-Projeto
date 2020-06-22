@@ -91,7 +91,7 @@
       </select>
   <div class="gallery">
   		<div class="thumbnail">
-       	<video controls autoplay class="cards" src="https://prisma1.azureedge.net/d/RCServer11/ondemand/STRNGRTHNGT01EP06.mp4"></video>
+       	<video controls autoplay class="cards" src="https://rc-downloads.azureedge.net/d/RCServer11/ondemand/STRNGRTHNGT01EP06.mp4"></video>
         <h4>Stranger Things T01EP06</h4>
         </div></div>
         <!-- Footer Section -->

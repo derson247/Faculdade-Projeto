@@ -93,7 +93,7 @@
       </select>
   <div class="gallery">
   	<div class="thumbnail">
-       	<video autoplay controls  width="500" class="cards" src="https://prisma1.azureedge.net/d/RCServer11/ondemand/GTHMT03EP09.mp4" type="video/mp4"></video>      
+       	<video autoplay controls  width="500" class="cards" src="https://rc-downloads.azureedge.net/d/RCServer11/ondemand/GTHMT03EP09.mp4" type="video/mp4"></video>      
         <h4>Gotham T03EP09</h4>
         </div></div>
         <!-- Footer Section -->

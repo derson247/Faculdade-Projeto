@@ -92,7 +92,7 @@
       </select>
   <div class="gallery">
   		<div class="thumbnail">
-       	<video width="500" autoplay controls class="cards" src="https://prisma1.azureedge.net/d/RCServer13/ondemand/MROBS03EP03.mp4" type="video/mp4">
+       	<video width="500" autoplay controls class="cards" src="https://rc-downloads.azureedge.net/d/RCServer13/ondemand/MROBS03EP03.mp4" type="video/mp4">
 	</video>
         <h4>Mr. Robot T03EP03 <strong style="color:#FF0000">Legendado</strong></h4>
         </div></div>

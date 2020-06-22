@@ -93,7 +93,7 @@
       </select>
   <div class="gallery">
   		<div class="thumbnail">
-       	<video autoplay controls  width="500" class="cards" src="https://prisma1.azureedge.net/d/RCServer13/ondemand/SPNT13EP06.mp4" type="video/mp4">
+       	<video autoplay controls  width="500" class="cards" src="https://rc-downloads.azureedge.net/d/RCServer13/ondemand/SPNT13EP06.mp4" type="video/mp4">
 </video>
         <h4>Supernatural T13EP06</h4>
         </div></div>

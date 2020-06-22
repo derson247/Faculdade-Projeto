@@ -91,7 +91,7 @@
       </select>
   <div class="gallery">
   		<div class="thumbnail">
-			<video autoplay controls  width="500" class="cards" src="https://prisma1.azureedge.net/d/RCServer10/ondemand/THORGNLT03EP16.mp4" type="video/mp4"></video>
+			<video autoplay controls  width="500" class="cards" src="https://rc-downloads.azureedge.net/d/RCServer10/ondemand/THORGNLT03EP16.mp4" type="video/mp4"></video>
         <h4>The Originals T03EP16</h4>
         </div></div>
         <!-- Footer Section -->
