@@ -15,5 +15,7 @@ Para que o usuário entre em contato conosco, utilizamos um form de contato do s
 -----------------------------------------------------------------------------------------
 
 Front-End desenvolvido por: Anderson Carvalho da Silva
+
 Back-end desenvolvido por: Anderson Carvalho da Silva e Pedro Augusto de Barros Carvalho
+
 Configiração do Banco de Dados feita por: Pedro Agusto de Barros Carvalho
